@@ -1,7 +1,5 @@
 ## Hi there 👋
-### Experience
-
-**Embedded Systems Developer — UBC Solar**
+**Embedded Systems Designer — UBC Solar**
 
 - Contributing to embedded software development for UBC's solar-powered vehicle.
 - Working on firmware, microcontroller integration, and embedded systems reliability.
