@@ -1,22 +1,19 @@
 ## Hi there 👋
-**Embedded Systems Designer — UBC Solar**
 
-- Contributing to embedded software development for UBC's solar-powered vehicle.
-- Working on firmware, microcontroller integration, and embedded systems reliability.
-- Collaborating with a multidisciplinary engineering team to develop and test vehicle systems.
+### Experience
+
+**Embedded Systems Designer — UBC Solar**
+- Developing embedded firmware for UBC's highway-capable solar-powered vehicle.
+- Implementing STM32-based communication and control systems, including CAN bus message handling and transmission prioritization.
+- Contributing to reliable microcontroller integration and vehicle system testing.
 
 [View UBC Solar's GitHub](https://github.com/UBC-Solar)
-<!--
-**max-ovd/max-ovd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Personal Projects
 
-- 🔭 I’m currently working on reducing CAN 
-- 🌱 I’m currently learning RISC-V, System Verilog, and constantly improving my C capabilities.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automated Climate-Controlled Window**
+- Designed and prototyped an automated window-control system using an Arduino, LM35DZ temperature sensor, BTS7960 H-bridge, and 12V linear actuator.
+- Developed embedded C++ firmware featuring moving-average temperature filtering, hysteresis-based control, and non-blocking actuator timing.
+- Investigated electrical noise and implemented hardware-level filtering and power-supply decoupling to improve measurement reliability.
+
+[View Project Repository](https://github.com/max-ovd/automated-window-controller/tree/main)
